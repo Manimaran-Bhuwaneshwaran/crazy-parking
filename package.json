@@ -1,0 +1,43 @@
+> npm init --yes
+
+Wrote to /home/monatheoctocat/my_package/package.json:
+
+{
+
+  "name": "crazy-parking",
+
+  "description": "",
+
+  "version": "1.0.0",
+  
+  "main";"index.js",
+
+  "scripts": {
+
+    "start":"node index.js"
+
+  },
+
+  "repository": {
+
+    "type": "git",
+
+    "url": ""
+
+  },
+
+  "keywords": [],
+
+  "author": "",
+
+  "license": "ISC",
+
+  "bugs": {
+
+    "url": ""
+
+  },
+
+  "homepage": ""
+
+}
